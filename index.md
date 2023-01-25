@@ -6,10 +6,15 @@ menuorder: 1
 ---
 
 This is the best time of life to make changes, experiment crazily, increase vibration, and become one with Life!
-## Current Interests and Projects:
+## Current Interests:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Increasing Vibration
+- Entering Flow & Vortex
+- Understanding levels of consciousness
+- Disciplined lifestyle
+- Running and workout
+- Github and Intro to Digital Humanities with Coach David 😀😊
+
+
+
+### **THAT'S IT 🤩**
