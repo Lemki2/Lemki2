@@ -1,11 +1,12 @@
 ---
 layout: page
 excerpt: "About Me..."
-menutitle: Home
+menutitle: Home Sweet Home
 menuorder: 1
 ---
 
 This is the best time of life to make changes, experiment crazily, increase vibration, and become one with Life!
+
 ## Current Interests:
 
 - Increasing Vibration
