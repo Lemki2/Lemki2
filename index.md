@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "The story About Me..."
 menutitle: Home
 menuorder: 1
 ---

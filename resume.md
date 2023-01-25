@@ -5,17 +5,14 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Student and Spiritual Life Ambassador (SLA) at NYUAD
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2022-2026`
+__New York University Abu Dhabi__
+Interactive Media and Psychology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
 
 ## Awards
 
@@ -37,7 +34,7 @@ Article Title, Journal Title
 ### Books
 
 `1994`
-Book Title, Journal Title
+The Ecstasy of Being, New York Publishing House
 
 `1994`
 Book Title, Journal Title
