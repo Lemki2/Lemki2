@@ -5,10 +5,10 @@ menutitle: Resume
 ---
 ## Currently
 
-Student at NYUAD
-Spiritual Life Ambassador (SLA) 
-Author of so many books
-Researcher of Consciousness
+- Student at NYUAD
+- Spiritual Life Ambassador (SLA) 
+- Author of so many books
+- Researcher of Consciousness
 
 ## Education
 
