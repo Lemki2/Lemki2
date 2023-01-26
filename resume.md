@@ -5,7 +5,10 @@ menutitle: Resume
 ---
 ## Currently
 
-Student and Spiritual Life Ambassador (SLA) at NYUAD
+Student at NYUAD
+Spiritual Life Ambassador (SLA) 
+Author of so many books
+Researcher of Consciousness
 
 ## Education
 
@@ -33,11 +36,11 @@ Article Title, Journal Title
 
 ### Books
 
-`1994`
+`2022`
 The Ecstasy of Being, New York Publishing House
 
-`1994`
-Book Title, Journal Title
+`2023`
+You are alone
 
 
 ## Presentations
