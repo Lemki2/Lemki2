@@ -8,4 +8,4 @@ By using this template you will have a website that is well designed, easy to ma
 Complete documentation for getting started as well as advanced features of Jekyll Academic can be found at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
 
 
-[Lemikko] (https://www.theoi.com/articles/who-is-the-most-beautiful-greek-goddess/)
+[Lemikko](https://www.theoi.com/articles/who-is-the-most-beautiful-greek-goddess/)
