@@ -20,7 +20,7 @@ Interactive Media and Psychology
 ## Awards
 
 `2012`
-Name of Award, Organization 
+Nobel Prize, the Royal Swedish Academy of Sciences
 
 ## Publications
 
