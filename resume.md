@@ -26,13 +26,6 @@ Name of Award, Organization
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
 
 ### Books
 
@@ -43,10 +36,13 @@ The Ecstasy of Being, New York Publishing House
 You are alone
 
 
-## Presentations
+### Journals
 
 `1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+Article Title, Journal Title
+
+`1994`
+Article Title, Journal Title>
 
 
 ## Occupation
