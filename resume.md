@@ -33,31 +33,29 @@ Name of Award, Organization
 The Ecstasy of Being, New York Publishing House
 
 `2023`
-You are alone
+You are alone, NYU
 
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title>
+`2014`
+How Life becoming loving when you open your heart to it, NYU Gazelle
 
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+`Toga Teacher`
+__Hatha Yoga Trainer__, Abu Dhabi Yoga Center 
 
-- Task
-- Task
+- Teaching yoga
+- Opening body channels
+- Healing
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2023-2024`
+__Desgin Manager at Interactive Media department__, NYUAD 
 
-- Task
-- Task
+- Managing facilities related to art and technology
+- Providing more opportunities in this subjects
 
 
 
