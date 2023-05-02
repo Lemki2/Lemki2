@@ -16,7 +16,7 @@ This is the best time of life to make changes, experiment crazily, increase vibr
 
 - Hiking beautiful mountains and having adventures
 
-<img src="/kosovo mountain.jpeg" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/kosovo mountain.jpeg"/>
 
 
 
