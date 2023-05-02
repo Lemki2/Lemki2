@@ -9,13 +9,16 @@ This is the best time of life to make changes, experiment crazily, increase vibr
 
 ## Current Interests:
 
-- Increasing Vibration
-- Entering Flow & Vortex
-- Understanding levels of consciousness
-- Disciplined lifestyle
-- Running and workout
-- Github and Intro to Digital Humanities with Coach David :)
+- Increasing Vibration. Mental Calibration.
+    Being Present. The letting go technique. 
 
 
 
-### **THAT'S IT 🤩**
+- Hiking beautiful mountains and having adventures
+
+<img src="/kosovo mountain.jpeg" style="width:80%; height:50%; margin-left:10%;" />
+
+
+
+- Github, Data Analysis, and Intro to Digital Humanities with Coach David :)
+
