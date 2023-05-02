@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-This is the best time of life to make changes, experiment crazily, increase vibration, and become one with Life!
+_This is the best time of life to make changes, experiment crazily, increase vibration, and become one with Life!_
 
 ## Current Interests:
 
