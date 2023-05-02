@@ -14,7 +14,7 @@ This is the best time of life to make changes, experiment crazily, increase vibr
 - Understanding levels of consciousness
 - Disciplined lifestyle
 - Running and workout
-- Github and Intro to Digital Humanities with Coach David 😀😊
+- Github and Intro to Digital Humanities with Coach David :)
 
 
 
