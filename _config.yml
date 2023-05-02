@@ -9,7 +9,7 @@ owner:
   name: Lemisa Selimi
   avatar: bio-photo.jpg
   bio: "An adventurer"
-  email: #emailaddress
+  email: #ls6056@nyu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #username
+  instagram: #lemm.111
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
